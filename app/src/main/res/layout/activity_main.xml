@@ -8,8 +8,10 @@
     tools:context=".MainActivity">
 
     <LinearLayout
+        android:background="#6C7A89"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
+        android:gravity="center"
         android:orientation="vertical"
         android:padding="20dip"
         app:layout_constraintBottom_toBottomOf="parent"
